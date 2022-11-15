@@ -9,7 +9,7 @@ int main() {
 
   print(" $x - $y = $z ");*/
 
-  int a = 2;
+  // int a = 2;
   //a++;
   //a--;
 
